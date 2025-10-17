@@ -1,0 +1,14 @@
+tr:only-child {
+  background-color: rgb(255, 0, 0);
+}
+table {
+  width: 50%; /*dice la cantidad que ocupa de espacio */
+  border-collapse: collapse; 
+  margin: 0 auto; /* para centrar la tabla horizontalmente*/
+  
+}
+td {
+
+  padding: 5px; /*el espacio interno entre las celdas de la tabla */
+  border: 1px solid black;
+}

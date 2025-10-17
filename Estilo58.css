@@ -1,0 +1,3 @@
+p::before {/*los parrafos comienzan con un guión*/
+  content:"-";
+}

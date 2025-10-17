@@ -1,0 +1,13 @@
+.lista1 li:nth-child(even) {/*selecciona los pares */
+    text-decoration: underline; /*subrayado */
+  }
+
+  .lista1 li:nth-child(odd) {/*selecciona los impares */
+    text-decoration: line-through; /*tachado */
+  }
+
+  /* Segunda lista */
+  .lista2 li:nth-child(4n) {/*selecciona los múltiplos de 4 */
+    color: green; /*múltiplos de 4 en verde */
+    font-weight: bold;
+  }
