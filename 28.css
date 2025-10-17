@@ -1,0 +1,24 @@
+    #ale {
+    font-family: Arial;
+    }
+
+    #ale p {
+    margin:0px;
+    padding:0px;
+    }
+
+    #ale a {
+    display: block;
+    padding: 3px;
+    width: 160px;
+    background-color: #f7f8e8;
+    border-bottom: 1px solid #eeeeee;
+    text-align:center;
+    border:1px solid #000000;
+    }
+
+    #ale a:link, #menu a:visited {
+    color: #ff0000;
+    text-decoration: none;
+    }
+
