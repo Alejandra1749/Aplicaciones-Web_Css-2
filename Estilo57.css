@@ -1,0 +1,3 @@
+li::first-letter {/* subraya la primera letra*/
+  text-decoration:underline;
+}
